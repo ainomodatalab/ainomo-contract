@@ -1,0 +1,11 @@
+{
+  "name": "@ainomo/ainomo",
+  "description": "JS interface for the Ainomo protocol",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "dependencies": {
+    "@aragon/contract-helpers-test": "^0.1.0",
+    "@truffle/contract": "^4.2.30",
+    "web3": "^1.3.0"
+  }
+}

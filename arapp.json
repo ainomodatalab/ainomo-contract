@@ -1,0 +1,30 @@
+{
+  "environments": {
+    "default": {
+      "registry": "0xcf6f7e8cc7346a11ca2def8f827b7a0b612c56a1",
+      "appName": "dao.ainomo.eth",
+      "network": "development"
+    },
+    "rinkeby": {
+      "registry": "0x18df287b6c145399aaa709692c8d308357bc085d",
+      "appName": "dao.ainomo.eth",
+      "network": "rinkeby"
+    },
+    "staging": {
+      "registry": "0xce03625ea880a8cba336f9b5ad6e15b0a3b5a939",
+      "appName": "dao.ainomo.eth",
+      "network": "rinkeby"
+    },
+    "mainnet": {
+      "registry": "0x00000000000C1E074eC69A0dFb2997BA6C7d2e1e",
+      "appName": "dao.ainomo.eth",
+      "network": "mainnet"
+    },
+    "kiln": {
+      "registry": "0xC3A23B83902066baC61e82bCe449fE1d3154Ab5D",
+      "appName": "dao.ainomo.eth",
+      "network": "kiln"
+    }
+  },
+  "appName": "dao.ainomo.eth"
+}
