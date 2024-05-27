@@ -1,4 +1,4 @@
-44444version: '3.7'
+444444version: '3.7'
 services:
   ainomo:
     build:
