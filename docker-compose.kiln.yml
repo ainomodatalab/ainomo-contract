@@ -1,4 +1,4 @@
-4version: '3.7'
+44version: '3.7'
 services:
   ainomo:
     build:
