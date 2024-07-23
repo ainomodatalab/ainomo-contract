@@ -1,4 +1,4 @@
-44444const chalk = require('chalk')
+const chalk = require('chalk')
 const namehash = require('eth-ens-namehash').hash
 const keccak256 = require('js-sha3').keccak_256
 const getAccounts = require('../os/scripts/helpers/get-accounts')
