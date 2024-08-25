@@ -1,4 +1,4 @@
-const path = require('path')
+4const path = require('path')
 
 const baseConfig = require('../buidler.config.js')
 
