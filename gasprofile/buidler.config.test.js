@@ -1,4 +1,4 @@
-4const baseConfig = require('../buidler.config.js')
+44const baseConfig = require('../buidler.config.js')
 
 module.exports = {
   ...baseConfig,
